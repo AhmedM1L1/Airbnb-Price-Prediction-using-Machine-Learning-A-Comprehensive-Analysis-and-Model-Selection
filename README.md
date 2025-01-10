@@ -1,0 +1,2 @@
+# Airbnb-Price-Prediction-using-Machine-Learning-A-Comprehensive-Analysis-and-Model-Selection
+This project predicts the logarithm of Airbnb rental prices using various machine learning techniques. It covers data cleaning, feature transformation, and dimensionality reduction via PCA. Multiple models are developed and evaluated based on R² and MSE, with the best model chosen for accurate log price predictions.
