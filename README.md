@@ -21,7 +21,7 @@ This project is focused on predicting the logarithm of Airbnb rental prices usin
    - Develop, train, and evaluate different machine learning models, including linear and non-linear models.
 
 5. **Model Evaluation**:
-   - Evaluate the model's performance using metrics like **R²**, **Mean Squared Error (MSE)**, and **cross-validation**.
+   - Evaluate the model's performance using metrics like **R²** and **Mean Squared Error (MSE)**.
 
 6. **Model Selection**:
    - Select the best-performing model based on evaluation metrics to predict Airbnb prices.
@@ -30,8 +30,8 @@ This project is focused on predicting the logarithm of Airbnb rental prices usin
 
 ### **Project Steps**
 1. **Understanding the Data**:
-   - Visualize the dataset to understand its structure, types of data, and distributions.
-   - Identify influential features for predicting the price.
+   - Visualize the dataset to understand its structure, types of data and the missing values.
+  
 
 2. **Data Cleaning**:
    - Handle missing values appropriately.
@@ -40,7 +40,7 @@ This project is focused on predicting the logarithm of Airbnb rental prices usin
 
 3. **Feature Transformation**:
    - Use **One-Hot Encoding** to convert categorical variables (e.g., room type, cancellation policy) into numerical formats.
-   - Normalize numerical features to bring them to a similar scale, which improves model performance.
+   - Standardize numerical features to bring them to a similar scale, which improves model performance.
 
 4. **Correlation Analysis and PCA**:
    - Analyze correlations between features and the target variable (**log_price**).
@@ -52,7 +52,6 @@ This project is focused on predicting the logarithm of Airbnb rental prices usin
      - **Decision Trees** and **Random Forests**
      - **Gradient Boosting models** (e.g., GradientBoostingRegressor, HistGradientBoostingRegressor)
      - **Ensemble models** like **StackingRegressor**.
-   - Tune hyperparameters for each model to optimize performance.
 
 6. **Model Evaluation**:
    - Evaluate models using **R²** and **Mean Squared Error (MSE)** on both training and test data.
