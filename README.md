@@ -1,7 +1,7 @@
 # **Airbnb Price Prediction using Machine Learning: A Comprehensive Analysis and Model Selection**
 
 ### **Project Overview**
-This project focuses on predicting the logarithm of Airbnb rental prices using various machine learning techniques. The goal is to create a robust predictive model that estimates Airbnb prices based on factors like location, property type, amenities, and other relevant features.
+This project focuses on predicting the logarithm of Airbnb prices using various machine learning techniques. The goal is to create a robust predictive model that estimates Airbnb prices based on factors like location, property type, amenities, and other relevant features.
 
 ---
 
