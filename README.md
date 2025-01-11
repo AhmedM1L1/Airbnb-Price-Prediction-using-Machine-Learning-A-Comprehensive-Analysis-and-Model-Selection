@@ -65,6 +65,8 @@ This project is focused on predicting the logarithm of Airbnb rental prices usin
 ### **Files Included**
 1. **airbnb_train.csv**: The training dataset containing Airbnb listings and their features.
 2. **airbnb_test.csv**: The test dataset on which the final model predictions are made.
+3. **Predictions_log_price.csv**: The file containing the predictions of log prices after selecting the best-performing model.
+
 
 ---
 
