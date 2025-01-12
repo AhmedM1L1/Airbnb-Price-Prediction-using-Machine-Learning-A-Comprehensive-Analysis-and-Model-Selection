@@ -42,3 +42,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, feel free to reach out to me via email or LinkedIn:
 - **Email**: [ahmed.mili@edu.devinci.fr](mailto:ahmed.mili@edu.devinci.fr)
 - **LinkedIn**: [Ahmed Mili](https://www.linkedin.com/in/ahmedmili/)
+- **GitHub**: [Ahmed Mili's GitHub](https://github.com/AhmedMIL)
